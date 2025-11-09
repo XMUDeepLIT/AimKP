@@ -1,4 +1,5 @@
-# AimKP: Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation (AAAI-2026)
+# AimKP Codebase
+## Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation
 
 ## Install
 1. Install Package
