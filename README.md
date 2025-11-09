@@ -22,7 +22,7 @@ bash /path/to/scripts/AimKP.sh
 ```
 3. Evaluation
 ```Shell
-python evaluate.py --model-path checkpoint --model-base /path/to/models/llava-v1.5-7b --txt-path "reults"
+python evaluate.py --model-path checkpoint --model-base /path/to/models/llava-v1.5-7b --txt-path "results"
 ```
 ## Acknowledgement
 - Code is based on [LLaVA](https://github.com/haotian-liu/LLaVA)
